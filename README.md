@@ -1,2 +1,5 @@
-# identificacai-de-doencas
- 
+# Inteligência Artificial como Ferramenta para Identificação Humana em Odontologia Legal
+
+A identificação forense busca encontrar coincidências entre dados obtidos ante-mortem e post-mortem, com o objetivo de individualizar uma pessoa ou objeto, constituindo uma parte essencial de estudo e pesquisa da odontologia legal e medicina legal. Os exames imaginológicos têm sido amplamente utilizados nesse processo de reconhecimento, possibilitando a identificação do indivíduo através da verificação da unicidade de estruturas morfológicas, características anatômicas e tratamentos dentários previamente realizados. Para tanto, exames de imagem preliminares precisam ter sido realizados e estar pressentes em prontuários completos e organizados. Considerando a inexistência de legislação específica acerca da obrigatoriedade e tempo de guarda de prontuários odontológicos, o processo de identificação forense torna-se dificultado. Ao término do trabalho desenvolveu-se uma solução com inteligência artificial capaz de armazenar prontuários odontológicos, comparar e reconhecer imagens radiográficas além manter a legitimidade dos dados.
+
+Palavras-chave.  Exames Imaginológicos, Inteligência Artificial, Semelhança das Imagens.
